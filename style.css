@@ -1,0 +1,40 @@
+*{
+    transition: all 1s;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.workout{
+    background-color: #b1b1b1;
+    border-radius: 10px;
+    position: relative;
+}
+.delete-button{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+.measurement{
+    position: relative;
+    background-color: #dddddd;
+}
+
+.m-delete-button{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+.break{
+    position: relative;
+}
+
+.b-delete-button{
+    position: absolute;
+    top: 1px;
+    right: 5px;
+}
